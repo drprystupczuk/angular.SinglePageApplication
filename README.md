@@ -1,4 +1,6 @@
-## [Url](https://drprystupczuk.github.io/angular.SinglePageApplication/#/home)
+## Important !
+
+Click [here](https://drprystupczuk.github.io/angular.SinglePageApplication/#/home) to watch the project running!
 
 # Spa (Single Page Application)
 
